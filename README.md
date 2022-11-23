@@ -8,8 +8,6 @@
 
 <hr>
 
-
-
 ### Ajustes e melhorias
 
 O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
@@ -39,7 +37,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
      <td align="center">
       <a href="#">
-        <img src="./foto.jpg/" width="100px" alt="foto wanderson"/><br>
+        <img src="./images/foto.jpg/" width="100px" alt="foto wanderson"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
